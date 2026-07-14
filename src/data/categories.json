@@ -1,0 +1,35 @@
+[
+  {
+    "id": "anatomy",
+    "name": "해부학",
+    "subcategories": [
+      { "id": "upper-limb", "name": "상지" },
+      { "id": "lower-limb", "name": "하지" },
+      { "id": "spine", "name": "척추" }
+    ]
+  },
+  {
+    "id": "kinesiology",
+    "name": "운동학",
+    "subcategories": [
+      { "id": "joint-motion", "name": "관절운동" },
+      { "id": "muscle-function", "name": "근기능" }
+    ]
+  },
+  {
+    "id": "assessment",
+    "name": "평가·측정",
+    "subcategories": [
+      { "id": "rom", "name": "관절가동범위" },
+      { "id": "muscle-test", "name": "근력검사" }
+    ]
+  },
+  {
+    "id": "treatment",
+    "name": "치료기법",
+    "subcategories": [
+      { "id": "manual-therapy", "name": "도수치료" },
+      { "id": "exercise-therapy", "name": "운동치료" }
+    ]
+  }
+]
